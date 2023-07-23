@@ -28,7 +28,7 @@ body {
   color: white;
   font-weight: bold;
 } 
-/* remember .text.child takes precedence over .div.text rule of two class chain */
+/* remember .text.child takes precedence over .div.text rule of two class chain  yayS*/
 
 .text.child {
   color: rgb(0, 0, 0);
